@@ -1,0 +1,19 @@
+# 환경 설정 파일
+config.json
+
+# 데이터베이스
+*.sql
+
+# Docker
+docker-compose.yml
+
+# 로그 파일
+*.log
+
+# IDE 설정
+.vscode/
+.idea/
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
